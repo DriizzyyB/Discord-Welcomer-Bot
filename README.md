@@ -1,4 +1,5 @@
 # Discord Welcome Bot
+# Developed by Playboii Driizzyy
 
 ## Overview
 
@@ -37,4 +38,7 @@ This is a Discord bot built using `discord.js` that welcomes new users to the se
 ## Notes
 
 Make sure you have set the necessary permissions for the bot in the Discord Developer Portal (e.g., `GUILD_MEMBERS` intent) and that the bot has sufficient privileges in the server to manage roles and send messages.
+
+SUPPORT: Join my discord linked below
+https://discord.gg/spinnablockrp
 
