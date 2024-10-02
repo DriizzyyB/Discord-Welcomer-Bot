@@ -1,5 +1,5 @@
 # Discord Welcome Bot
-# Developed by Playboii Driizzyy
+Developed by Playboii Driizzyy
 
 ## Overview
 
